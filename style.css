@@ -1,0 +1,183 @@
+
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* menu bar*/
+.container-fluid
+{
+    margin-bottom: 80px;
+}
+
+.bg-cheng
+{
+    background-color: #F0FFF0;
+    padding:2%  4% 2% 4% ;
+    
+}
+.padding-style
+{
+  padding-top: 40px;
+}
+
+.button-style
+{
+    padding:5px 15px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+    color: white !important;
+    font-weight: 700;
+}
+.button-style:hover
+{
+    background-color: orange;
+    border-radius: 30px 44px;
+}
+
+
+
+.style-of-col h6
+{
+   color: #FD511A;
+   font-size: 16px;
+}
+.style-of-col h2
+{
+    font-weight: 900;
+    color: #000000;
+    font-size: 50px;
+    
+}
+.style-of-col span
+{
+    color:#21B573;
+   font-size: 50px;
+}
+.style-of-col p
+{
+  color: gray;
+  text-align: justify;
+}
+
+
+/* topics*/
+
+
+.card-one
+{
+    border:none;
+    box-shadow: 4px 4px 6px gray;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+}
+.card-one:hover
+{
+    box-shadow: 5px 5px 8px lightgray;
+}
+.card-one img
+{
+    margin-top: 35px;
+    width: 25%;
+}
+
+.card-footer-one
+{
+    border:none ;
+}
+.card-footer-one h5
+{
+   font-size: 20px;
+   font-weight: 700;
+   color: #413960;
+}
+
+/* Online Courses*/
+
+.courses-hading
+{
+    text-align: center;
+    color: #413960;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.card-tow
+{
+  padding: 30px 30px;
+  box-shadow: 4px 4px 10px grey;
+}
+.card-tow:hover
+{
+    box-shadow: 8px 8px 20px lightgray;
+    padding: 50px 50px;
+    border-radius: 50px 30px;
+}
+.card-tow img
+{
+    max-width: 100%;
+}
+
+
+.card-footer-tow img
+{
+  width: 20px;
+}
+
+
+/*kjfjfdsdfkyh*/
+
+.fast-had
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color:  #000000;
+}
+
+.Testimonial
+{
+    border: 1px solid;
+    align-items: center;
+    text-align: justify;
+    padding: 30px;
+}
+
+.image-man
+{
+    width: 35%;
+    margin-left: 70%;
+}
+.peragaf-left
+{
+    margin-right: 35%;
+    font-size: 12px;
+    color: black;
+    font-weight: 700;
+}
+
+
+/* footer    */
+
+footer
+{
+    background-color:#282531;
+    height: 100%;
+}
+.footer-design
+{
+    border: 1px solid;
+    margin-left: ;
+    padding: 90px 20px 160px 60px;
+    color:white ;
+}
+.footer-p
+{
+    text-align: center;
+    color:white ;
+}
+ 
